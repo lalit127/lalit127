@@ -19,12 +19,8 @@ Want to know more about me? [Check out my portfolio.](https://linkedin.com/in/la
 
 ## 📌 Pinned Repositories
 
-<div align="center">
-
-[![CaloAI](https://github-readme-stats.vercel.app/api/pin/?username=lalit127&repo=calo_ai&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/lalit127/calo_ai)
-[![UnstudioAI](https://github-readme-stats.vercel.app/api/pin/?username=lalit127&repo=unstudio_ai&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/lalit127/unstudio_ai)
-
-</div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lalit127&repo=calo_ai&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/lalit127/calo_ai)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lalit127&repo=unstudio_ai&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/lalit127/unstudio_ai)
 
 ## 💼 Skills
 
@@ -57,15 +53,6 @@ Want to know more about me? [Check out my portfolio.](https://linkedin.com/in/la
 
 ## 📈 GitHub Stats
 
-<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalit127&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&layout=compact)
 
-<a href="https://github.com/lalit127">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalit127&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="Lalit's Top Languages" />
-</a>
-
-<br>
-<br>
-
-<a href="https://github.com/lalit127">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=lalit127&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="Lalit's GitHub Stats" />
-</a>
+![Lalit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lalit127&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)
