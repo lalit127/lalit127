@@ -1,28 +1,59 @@
-# 💫 About Me:
-## 👋 Hey, I'm Lalit<br><br>💻 Mobile App Developer turned AI Enthusiast.<br><br>With 3 years of experience building production-ready Flutter applications, I enjoy working on scalable systems and MVPs that bring ideas to life.<br><br>Currently diving deep into:<br>🧠 Artificial Intelligence  <br>🐍 Python & Machine Learning  <br>⚙️ Backend Development  <br><br>I’m exploring the intersection of AI + real-world applications — especially in startup ecosystems.<br><br>🔨 What I enjoy building:<br>- AI-integrated mobile apps<br>- Automation tools<br>- Smart SaaS ideas<br>- Data-driven systems<br><br>📌 Open to opportunities in:<br>Flutter • Python Backend • AI-driven startups<br><br>Let’s connect and create impactful technology 🚀
+[![Visits Badge](https://badges.pufler.dev/visits/lalit127/lalit127)](https://github.com/lalit127)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/lalit-sharma-8a038223b)
+[![Medium Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=medium&logoColor=white&color=black)](https://medium.com/@Lalit.Sharma7)
 
+Hey there 👋
 
-## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lalit-sharma-8a038223b)
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/lalit127)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/lalitSharma7)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/lalitbhai7990)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/lalitbhai7990)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Lalit.Sharma7)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello.lalit11@gmail.com)
+I'm Lalit, a mobile developer with 3 years of experience building production-ready applications. I specialize in cross-platform development with Flutter and native Android with Kotlin, with a growing focus on AI integration and full-stack solutions.
 
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+Want to know more about me? [Check out my portfolio.](https://linkedin.com/in/lalit-sharma-8a038223b)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lalit127&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lalit127&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lalit127&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📝 Latest Medium Posts
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
----
-[![](https://visitcount.itsvg.in/api?id=lalit127&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📌 Pinned Repositories
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://github.com/lalit127">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=lalit127&repo=lalit127&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+## 💼 Skills
+
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-FastAPI-informational?style=flat&logo=FastAPI&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
+
+<details>
+<summary>More Skills</summary>
+<br>
+
+![](https://img.shields.io/badge/Style-Jetpack_Compose-informational?style=flat&logo=Jetpack-Compose&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Material_Design-informational?style=flat&logo=Material-Design&logoColor=white&color=4AB197)
+
+<br>
+
+![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=4AB197)
+
+</details>
+
+## 📈 GitHub Stats
+
+<a href="https://github.com/lalit127">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalit127&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/lalit127">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=lalit127&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Lalit's GitHub Stats" />
+</a>
