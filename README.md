@@ -19,13 +19,12 @@ Want to know more about me? [Check out my portfolio.](https://linkedin.com/in/la
 
 ## 📌 Pinned Repositories
 
-<a href="https://github.com/lalit127/calo_ai">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=lalit127&repo=calo_ai&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+<div align="center">
 
-<a href="https://github.com/lalit127/unstudio_ai">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=lalit127&repo=unstudio_ai&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+[![CaloAI](https://github-readme-stats.vercel.app/api/pin/?username=lalit127&repo=calo_ai&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/lalit127/calo_ai)
+[![UnstudioAI](https://github-readme-stats.vercel.app/api/pin/?username=lalit127&repo=unstudio_ai&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/lalit127/unstudio_ai)
+
+</div>
 
 ## 💼 Skills
 
