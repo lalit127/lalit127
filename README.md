@@ -55,11 +55,6 @@ Want to know more about me? [Check out my portfolio.](https://linkedin.com/in/la
 
 </details>
 
-## 📈 GitHub Stats
-
-<a href="https://github.com/lalit127">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalit127&layout=compact&theme=dark&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="Top Languages" />
-</a>
 
 <br />
 <br />
